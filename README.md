@@ -1,6 +1,8 @@
 
 # Dashboard Project - Public Health in Scotland Interactive Dashboard
 
+![](/Users/user/Desktop/PHS_dash_app.png)
+
 ## Introduction
 
 We were given a brief from PHS to determine whether or not there was a winter crisis in NHS Scotland within the acute care sector over the last four years. This repository contains an RShiny dashboard applicaiton and additional files for testing and exploring the data. The Dashboard allows users to explore data through overview, geographic, temporal demographic tabs which include an array of interactive visualisations.
