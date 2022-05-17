@@ -11,7 +11,7 @@ Our team was made up of four members :
 
 * Michael Kustra
 * Marcus Eilertsen
-* Oscar "El'Chapo" Chapman
+* Oscar Chapman
 * Tom Keeling
 
 ## Process Methodology
